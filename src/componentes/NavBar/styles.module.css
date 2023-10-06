@@ -1,6 +1,6 @@
 
 .Navbar{
-    background-color: rgb(52, 52, 255);
+    background-color: rgb(171, 171, 173);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -15,4 +15,5 @@
 }
 .menuNav{
     color: rgb(247, 247, 247);
+    padding: 16px;
 }
